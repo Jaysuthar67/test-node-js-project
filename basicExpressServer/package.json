@@ -1,0 +1,12 @@
+{
+  "name": "basicexpressserver",
+  "version": "1.0.0",
+  "description": "just testing some code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Jay Suthar",
+  "license": "MIT"
+}
